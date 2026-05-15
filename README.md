@@ -271,16 +271,8 @@ The face dataset was manually structured into class-wise folders for PCA + ANN f
 
 Example structure:
 
-dataset/faces/
-├── Aamir/
-├── Ajay/
-├── Akshay/
-├── Alia/
-├── Amitabh/
-├── Deepika/
-├── Disha/
-├── Farhan/
-└── Ileana/
+<img width="149" height="223" alt="Screenshot 2026-05-15 at 3 29 17 PM" src="https://github.com/user-attachments/assets/395ac833-354e-47e8-a01f-75bd0583ae8d" />
+
 
 The project also uses OpenCV Haar Cascade for face detection and applies data augmentation before training.
 
