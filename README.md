@@ -259,3 +259,28 @@ A: The ANN outputs a probability distribution across all known classes. If the m
 ---
 
 *Developed for academic purposes — PCA + ANN Face Recognition Mini-Project*
+
+
+## Dataset
+
+The dataset used in this project was organized and adapted from the following machine learning repository:
+
+Source Repository: https://github.com/robaita/introduction_to_machine_learning
+
+The face dataset was manually structured into class-wise folders for PCA + ANN face recognition training.
+
+Example structure:
+
+dataset/faces/
+├── Aamir/
+├── Ajay/
+├── Akshay/
+├── Alia/
+├── Amitabh/
+├── Deepika/
+├── Disha/
+├── Farhan/
+└── Ileana/
+
+The project also uses OpenCV Haar Cascade for face detection and applies data augmentation before training.
+
