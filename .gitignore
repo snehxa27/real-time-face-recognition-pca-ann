@@ -1,0 +1,21 @@
+
+# Virtual Environment
+.venv/
+
+# Dataset
+dataset/
+
+# Models
+models/
+
+# Outputs
+outputs/
+
+# Cache
+__pycache__/
+*.pyc
+
+# Mac
+.DS_Store
+
+dataset_extracted/
